@@ -1,0 +1,23 @@
+git init
+git clone
+git add
+git add .
+git status
+git commit -m
+git push
+git branch "branch name"
+git checkout "branch name"
+git merge "blw two branches"
+git rebase
+git revert
+git pull 
+git rm 
+git rmdir
+git diff
+git log
+git log --oneline
+git branch -b "branch name"
+git branch -d "branch name"
+git remote -v You can see all remote repositories for your local repository with this command:
+git fetch
+git push -f
